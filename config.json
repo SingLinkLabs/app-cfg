@@ -1,13 +1,13 @@
 {
-  "ver": 1, "updated": "2026-06-17T12:37:59Z",
+  "ver": 2, "updated": "2026-06-17T12:49:02Z",
   "download": [
-    { "url": "https://bysingly.com",   "region": "cn", "w": 10 },
-    { "url": "https://singlinkly.com", "region": "cn", "w": 9 },
-    { "url": "https://singcheck.com",  "region": "cn", "w": 8 },
-    { "url": "https://singget.com",    "region": "cn", "w": 8 },
-    { "url": "https://singshop.org",   "region": "cn", "w": 7 },
-    { "url": "https://singload.com",   "region": "cn", "w": 7 },
-    { "url": "http://15.204.225.163:12280", "region": "cn", "type": "ip-fallback", "w": 1 }
+    { "url": "https://bysingly.com",   "region": "all", "w": 10 },
+    { "url": "https://singlinkly.com", "region": "all", "w": 9 },
+    { "url": "https://singcheck.com",  "region": "all", "w": 8 },
+    { "url": "https://singget.com",    "region": "all", "w": 8 },
+    { "url": "https://singshop.org",   "region": "all", "w": 7 },
+    { "url": "https://singload.com",   "region": "all", "w": 7 },
+    { "url": "http://15.204.225.163:12280", "region": "cn", "type": "ip-fallback", "w": 2 }
   ],
   "login": {
     "singlinkly.com": "https://singly.cc", "singcheck.com": "https://singly.shop",
@@ -15,6 +15,5 @@
     "bysingly.com": "https://singlyapp.com", "singload.com": "https://singlyshop.com",
     "default": "https://singlink.app"
   },
-  "subscribe": ["__TODO_订阅API_待提供__"],
   "telegram": "https://t.me/singlinkvpn"
 }
