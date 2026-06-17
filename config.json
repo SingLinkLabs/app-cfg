@@ -1,0 +1,20 @@
+{
+  "ver": 1, "updated": "2026-06-17T12:37:59Z",
+  "download": [
+    { "url": "https://bysingly.com",   "region": "cn", "w": 10 },
+    { "url": "https://singlinkly.com", "region": "cn", "w": 9 },
+    { "url": "https://singcheck.com",  "region": "cn", "w": 8 },
+    { "url": "https://singget.com",    "region": "cn", "w": 8 },
+    { "url": "https://singshop.org",   "region": "cn", "w": 7 },
+    { "url": "https://singload.com",   "region": "cn", "w": 7 },
+    { "url": "http://15.204.225.163:12280", "region": "cn", "type": "ip-fallback", "w": 1 }
+  ],
+  "login": {
+    "singlinkly.com": "https://singly.cc", "singcheck.com": "https://singly.shop",
+    "singget.com": "https://singlyweb.com", "singshop.org": "https://singlyhub.com",
+    "bysingly.com": "https://singlyapp.com", "singload.com": "https://singlyshop.com",
+    "default": "https://singlink.app"
+  },
+  "subscribe": ["__TODO_订阅API_待提供__"],
+  "telegram": "https://t.me/singlinkvpn"
+}
